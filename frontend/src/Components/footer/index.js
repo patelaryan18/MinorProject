@@ -31,6 +31,9 @@ function Footer(props) {
                 <li>
                   <a href="#"> Aryan </a>
                 </li>
+                <li>
+                  <a href="#">Terms of Service</a>
+                </li>
               </ul>
             </div>
           </div>
